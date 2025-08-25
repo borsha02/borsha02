@@ -1,11 +1,18 @@
 <h1 align="center">Hi 👋, I'm Samsun Nahar Borsha</h1>
 <h3 align="center">A passionate Learner from Bangladesh.</h3>
+---
 
-- 🌱 I’m currently learning **Machine Learning with Python**
-
-- 💬Doing Research on **ML and NLP**
-
+## 👨‍💻 About Me  
+- 🎓 Student of **CSE Department,IUBAT,Bangladesh**
 - 📫 Research field **ML,NLP & AI**
+- 💻 Passionate about **Artificial Intelligence** & **Machine Learning**  
+- ⚡ Specialized in **HTML**, **CSS**, and **Java Script**  
+- 🌱 Currently exploring **Machine Learning & Deep Learning with Python**  
+- 💬 Ask me about **Web Development**  
+- 💬 Doing Research on **ML and NLP**
+
+---
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
